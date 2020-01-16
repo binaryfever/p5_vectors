@@ -1,0 +1,8 @@
+{
+  "name": "vectors",
+  "projects": [
+    "create_vectors",
+    "vector_math",
+    "acceleration"
+  ]
+}
